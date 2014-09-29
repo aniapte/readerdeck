@@ -1,0 +1,6 @@
+cd <localdir>
+git init
+git add .
+git commit -m 'message'
+git remote add origin https://aniapte@github.com/aniapte/readerdeck.git
+git push -u origin master
